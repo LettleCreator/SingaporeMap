@@ -5,7 +5,7 @@ from django.http import HttpResponse
 from TestModel.models import Tourism
 
 def tourismdb(request):
-    file2 = open("../hotels4/tourism-data.txt")
+    file2 = open("../tourism-data.txt")
     for line2 in file2:
         if line2.find("Tourism ID") >= 0:
             continue

@@ -23,7 +23,7 @@ from .tourismdb import tourismdb
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    url(r'^$', view.map),
+    url(r'^$', view.oriMap),
     url(r'^map$', view.map),
     url(r'^testdb$', testdb),
     url(r'^tourismdb$', tourismdb),

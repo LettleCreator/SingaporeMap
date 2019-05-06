@@ -1,6 +1,47 @@
 from django.http import HttpResponse
 from django.shortcuts import render
 from TestModel.models import Test, Tourism
+def oriMap(request):
+    context = {}
+    result = []
+    result2 = []
+    isHotel = True
+    LocationXX = [1.292176, 103.858742]
+    list = Test.objects.all()
+    list2 = Tourism.objects.all()
+    print(len(list))
+    for var in list:
+        name = var.name
+        star = var.star
+        price = var.price
+        url = var.url
+        xy = [float(var.x),float(var.y)]
+        obj = {}
+        obj["xy"] = xy
+        obj["name"] = name
+        obj["star"] = "Star: " + star
+        obj["price"] = price
+        obj["url"] = url
+        result.append(obj)
+    for var in list2:
+        name2 = var.name
+        url2 = var.url
+        xy2 = [float(var.x),float(var.y)]
+        obj_tourism = {}
+        obj_tourism["xy"] = xy2
+        obj_tourism["name"] = name2
+        obj_tourism["url"] = url2
+        result2.append(obj_tourism)
+    if isHotel:
+        context['athlete_list3'] = result
+    else:
+        context['athlete_list'] = result
+    context['athlete_list2'] = result2
+    context['hotels'] = list
+    context['tourisms'] = list2
+    context['zoom'] = 13
+    context['LocationXX'] = LocationXX
+    return render(request, 'map.html', context)
 
 def map(request):
     context = {}
