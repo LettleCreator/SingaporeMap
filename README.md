@@ -1,3 +1,62 @@
+OS: Windows/Mac, Python3
+IDE Tools: PyCharm 2018 (Professional Edition)
+
+Set-up Environment: 
+1)	Install psycopg2
+Enter below command in cmd (for Windows) or in terminal (for Mac)
+ pip install psycopg2
+2)	Open “Map-based Guide” project
+i)	Extract file inside “Hotel4.zip” to a local disk;
+ii)	Launch Pycharm software ;
+iii)	Click open to open the extracted project at step i);
+
+3)	Set-up database
+i)	Create PostgreSQL database in PyCharm 
+
+Expand “Database” tool window on right-side of PyCharm interface, click plus “+” button, then choose add Data Source to add new PostgreSQL database;
+
+Click button  to launch setting window of Database. Set Database parameters as shown below.
+
+ii)	Add database parameters in “HelloWorld/MainPage/settings.py” file
+
+4)	Initialize data
+Enter below command in cmd (for Windows) or in terminal (for Mac):
+cd /“Change this part to the path where the PyCharm project files are extracted”/HelloWorld
+python manage.py makemigrations 
+python manage.py migrate
+(Notes: known issues and solutions for this step is in Appendix B)
+5)	Start Web service
+Enter below command in cmd (for Windows) or in terminal (for Mac):
+python manage.py runserver 127.0.0.1:8000
+6)	Load data to database
+Open Web Browser and enter below query to address bar then press “Enter”.
+http://127.0.0.1:8000/testdb
+http://127.0.0.1:8000/tourismdb
+7)	Verify if the application is running
+Open Web Browser and enter below url address:
+http://127.0.0.1:8000/map?query=
+
+
+
+Causes:
+The table already exist inside database;
+May due to multiple execution of Django migration.
+
+Solution:
+Follow below steps:
+1)	Drop the tables
+
+Right click “TestModel_test”, “TestModel_tourism” inside PyCharm database tool window;
+Click drop database button;
+Click “OK” to drop.
+
+2)	Truncate table “django_migration”
+Right click “django_migration” table inside PyCharm database tool window and follow the below steps to truncate table.
+
+3)	Refresh the database
+Click button  to refresh database.PyCharm Project Code
+
+
 运行环境：
 Windows/Mac
 Python3
