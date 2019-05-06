@@ -26,7 +26,7 @@ SECRET_KEY = 'vv*2(&%h5%=z3i!u_ut1k2a1pmivslhq^!a^10u&!a1+0k#$+0'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
@@ -78,11 +78,11 @@ WSGI_APPLICATION = 'MainPage.wsgi.application'
 DATABASES = {
     'default': {
             'ENGINE': 'django.db.backends.postgresql_psycopg2',
-            'NAME': 'postgres',
-            'USER': 'postgres',
+            'NAME': 'sgheritage',
+            'USER': 'sgheritage_db_admin',
             'PASSWORD': '123456',
             'HOST':'localhost',
-            'PORT':'15432',
+            'PORT':'5432',
         }
 }
 
@@ -127,3 +127,5 @@ STATIC_URL = '/static/'
 STATICFILES_DIRS = (
     os.path.join(BASE_DIR, 'static/'),
 )
+STATIC_ROOT = os.path.join(BASE_DIR, "assets/")
+
