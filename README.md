@@ -9,6 +9,7 @@ PyCharm 专业版
 1.	安装运行所需的python依赖库：
 比如：psycopg2
 可以在终端输入命令：pip install psycopg2
+
 2.	安装数据库
 安装postgresql 
 设置过程中端口改成 15432
@@ -33,13 +34,17 @@ python manage.py migrate
   
 此处的命令的作用，是根据TestModel中models.py文件里面定义的model创建,并在数据库中创建相应的table
 谈谈机制: migrations机制有两个指令，第一个是makemigrations，第二个是migrate，生成migrations代码的makemigrations指令是用models里面的model和当前的migrations代码里面的model做对比，如果有新的修改，就生成新的migrations代码，migrate指令是用migrations目录中代码文件和django数据库djaong_migrations表中的代码文件做对比，如果表中没有，那就对这些没有的文件按顺序及依赖关系做migrate apply，然后再把代码文件名加进migrations表中。
+
 4.	启动服务器
 打开控制台（windows）/终端（Mac）
 输入以下命令
 python manage.py runserver 127.0.0.1:8000
+
 5.	加载数据到数据库
 http://127.0.0.1:8000/testdb
+
 http://127.0.0.1:8000/tourismdb
+
 6.	访问程序
 打开任意浏览器，在地址栏输入地址
 http://127.0.0.1:8000/map?query=
