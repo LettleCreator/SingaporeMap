@@ -1,0 +1,99 @@
+Hotel ID	Hotel Name	Price start from (in SGD)	Web site	Location	star
+1	30 Bencoolen	190	https://www.30bencoolen.com.sg	1.298679, 103.850262	4
+2	Amara Sanctuary Resort Sentosa	341	https://sentosa.amarahotels.com	1.251541, 103.822441	5
+3	Amara Singapore	492	https://singapore.amarahotels.com	1.275386, 103.843547	5
+4	AMOY Hotel	328	https://stayfareast.com	1.282923, 103.848734	4
+5	Andaz Singapore	411	https://hyatt.com	1.299244, 103.857732	5
+6	Aqueen Hotel - Balestier	112	https://aqueenhotels.com	1.325271, 103.849931	3
+7	Ascott Orchard Singapore	311	https://the-ascott.com	1.304196, 103.837095	4
+8	Ascott Raffles Place Singapore	326	https://the-ascott.com	1.282028, 103.851567	5
+9	Bay Hotel Singapore	177	https://bayhotelsingapore.com	1.266263, 103.823852	4
+10	Beach Hotel	120	https://oyorooms.com	1.297458, 103.856757	2
+11	Broadway Hotel Singapore	93	https://broadwayhotel-singapore.com	1.309258, 103.853169	2
+12	Capella Hotel, Singapore	596	https://capellahotels.com	1.249836, 103.824149	5
+13	Capri by Fraser Changi City, Singapore	269	https://singapore.capribyfraser.com	1.334123, 103.963627	4
+14	Carlton City Hotel Singapore	232	https://carltoncity.sg	1.276116, 103.843704	4
+15	Carlton Hotel Singapore	241	https://carltonhotel.sg	1.296019, 103.852789	4
+16	Concorde Hotel Singapore	214	https://concordehotelsresorts.com	1.300807, 103.841494	4
+17	Conrad Centennial Singapore	330	https://conradhotels3.hilton.com	1.293316, 103.858763	5
+18	Copthorne Kings Hotel	167	https://millenniumhotels.com	1.288300, 103.836629	4
+19	Courtyard by Marriott Singapore Novena	228	https://marriott.com	1.320613, 103.843232	4
+20	Crowne Plaza Changi Airport	271	https://ihg.com	1.358750, 103.988014	5
+21	Days Hotel by Wyndham Singapore At Zhongshan Park	123	https://dayshotelsingapore.com	1.327030, 103.847493	3
+22	Destination Singapore Beach Road	160	https://parkhotelgroup.com	1.302481, 103.864205	4
+23	Dorsett Singapore	188	https://dorsetthotels.com	1.279653, 103.840025	4
+24	Fairmont Singapore	423	https://fairmont.com	1.294154, 103.853603	5
+25	five/6 Hotel Splendour	162	https://hotelsplendour.sg	1.311187, 103.876600	2
+26	Fortuna Hotel	172	https://fortunahotel.com.sg	1.311708, 103.854976	3
+27	Four Points by Sheraton Singapore, Riverview	168	https://marriott.com	1.289216, 103.836620	4
+28	Four Seasons Hotel Singapore	394	https://fourseasons.com	1.305257, 103.828679	5
+29	Fragrance Hotel - Ruby	71	https://fragrancehotel.com	1.312179, 103.881088	2
+30	Fragrance Hotel - Sapphire	59	https://fragrancehotel.com	1.311801, 103.877807	2
+31	Furama City Centre Singapore	165	https://furama.com	1.286460, 103.844600	4
+32	Furama Riverfront Singapore	155	https://furama.com	1.287681, 103.836079	4
+33	Genting Hotel Jurong	176	https://rwsentosa.com	1.331562, 103.739387	3
+34	Goodwood Park Hotel	290	https://goodwoodparkhotel.com	1.308496, 103.834538	5
+35	Grand Copthorne Waterfront Hotel Singapore	190	https://millenniumhotels.com	1.290288, 103.834972	4
+36	Grand Hyatt Singapore	319	https://hyatt.com	1.306494, 103.833399	5
+37	Grand Mercure Singapore Roxy	188	https://accorhotels.com	1.303418, 103.904603	4
+38	Grand Park City Hall	265	https://parkhotelgroup.com	1.292487, 103.850007	5
+39	Grand Park Orchard	244	https://parkhotelgroup.com	1.303549, 103.836256	5
+40	Hangout @ Mount Emily	109	https://hangouthotels.com	1.303546, 103.847811	2
+41	Hilton Garden Inn Singapore Serangoon	175	https://hiltongardeninn3.hilton.com	1.308438, 103.852021	4
+42	Hilton Singapore	275	https://hilton.com	1.305921, 103.829421	5
+43	Holiday Inn Express Singapore Clarke Quay	200	https://www.ihg.com/holidayinnexpress/hotels/us/en/singapore/sincq/hoteldetail?cm_mmc=GoogleMaps-_-EX-_-SG-_-SINCQ	1.289173, 103.841941	3
+44	Holiday Inn Express Singapore Katong	137	https://www.ihg.com/holidayinnexpress/hotels/us/en/singapore/sinka/hoteldetail?cm_mmc=GoogleMaps-_-EX-_-SG-_-SINKA	1.304789, 103.904583	4
+45	Holiday Inn Express Singapore Orchard Road	207	https://www.ihg.com/holidayinnexpress/hotels/us/en/singapore/sinex/hoteldetail?cm_mmc=GoogleMaps-_-EX-_-SG-_-SINEX	1.303336, 103.836597	3
+46	Holiday Inn Singapore Atrium	190	https://www.ihg.com/holidayinn/hotels/us/en/singapore/sinhi/hoteldetail?cm_mmc=GoogleMaps-_-HI-_-SG-_-SINHI	1.288928, 103.834462	4
+47	Holiday Inn Singapore Orchard City Centre	247	https://www.ihg.com/holidayinn/hotels/us/en/singapore/sinpv/hoteldetail?cm_mmc=GoogleMaps-_-HI-_-SG-_-SINPV	1.302369, 103.840997	4
+48	Hotel 81 (Dickson)	84	https://www.hotel81.com.sg/hotel_dickson.html	1.305005, 103.854256	2
+49	Hotel 81 (Geylang)	72	https://www.hotel81.com.sg/	1.311833, 103.880876	2
+50	Hotel 81 (STAR)	79	https://www.hotel81.com.sg/	1.311813, 103.879581	2
+51	Hotel Bencoolen Singapore	145	https://www.hotelbencoolen.com/	1.299670, 103.850155	2
+52	Hotel Chancellor @ Orchard	147	http://www.chancellororchard.com.sg/contact/	1.301532, 103.842109	3
+53	Hotel Clover 33 Jalan Sultan	140	https://www.hotelclover.com/singapore/33jalansultan/	1.302361, 103.861873	4
+54	Hotel Fort Canning Singapore	315	http://www.hfcsingapore.com/	1.296588, 103.845394	5
+55	Hotel G Singapore	147	https://www.hotelgsingapore.com/	1.300915, 103.851476	4
+56	Hotel Grand Central Singapore	178	https://www.grandcentral.com.sg/	1.301398, 103.841675	3
+57	Hotel Grand Pacific	153	https://hotelgrandpacific.com.sg	1.297474, 103.852618	4
+58	Hotel Indigo Singapore Katong	180	https://www.ihg.com/hotelindigo/hotels/us/en/singapore/sinki/hoteldetail?cm_mmc=GoogleMaps-_-IN-_-SG-_-SINKI	1.304946, 103.904585	4
+59	Hotel Jen Orchardgateway Singapore	260	https://www.hoteljen.com/singapore/orchardgateway/about/	1.300928, 103.838818	4
+60	Hotel Jen Tanglin Singapore	231	https://www.hoteljen.com/singapore/tanglin/about/	1.304432, 103.823913	4
+61	Hotel Kai	143	http://www.hotelkai.com/	1.296578, 103.855335	3
+62	Hotel Miramar Singapore	198	https://www.miramar.com.sg/	1.288689, 103.837303	4
+63	Hotel Re! @ Pearl's Hill	100	http://hotelre.com.sg/	1.285427, 103.838450	4
+64	Hotel Royal	139	http://www.hotelroyal.com.sg/	1.317028, 103.841965	4
+65	Hotel Royal @ Queens	172	https://www.royalqueens.com.sg/	1.297621, 103.852249	4
+66	Hotel Supreme Singapore	80	http://www.supremeh.com.sg/	1.301339, 103.842459	3
+67	ibis Singapore Novena	105	https://www.accorhotels.com/gb/hotel-7451-ibis-singapore-novena/index.shtml	1.326225, 103.845632	3
+68	ibis Singapore on Bencoolen	128	https://www.accorhotels.com/gb/hotel-6657-ibis-singapore-on-bencoolen/index.shtml	1.301165, 103.852533	3
+69	InterContinental Singapore	241	https://www.ihg.com/intercontinental/hotels/us/en/singapore/sinhb/hoteldetail?cm_mmc=GoogleMaps-_-IC-_-SG-_-SINHB	1.290457, 103.838598	5
+70	InterContinental Singapore Robertson Quay	241	https://www.ihg.com/intercontinental/hotels/us/en/singapore/sinic/hoteldetail?cm_mmc=GoogleMaps-_-IC-_-SG-_-SINIC	1.290331, 103.838692	5
+71	Jayleen 1918 Hotel	110	https://www.jayleen1918.com.sg/	1.287893, 103.847959	3
+72	JW Marriott Singapore South Beach	334	https://www.marriott.com/hotels/travel/sinjw-jw-marriott-hotel-singapore-south-beach/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2	1.294489, 103.856052	5
+73	Klapstar Boutique Hotel	250	https://www.klapstar.com/	1.273960, 103.842312	3
+74	Le Méridien Singapore, Sentosa	311	https://www.marriott.com/hotels/travel/sinmd-le-meridien-singapore-sentosa/	1.253181, 103.819538	5
+75	Link Hotel Singapore	141	http://linkhotel.com.sg/	1.284937, 103.834283	4
+76	Lloyd's Inn	177	http://www.lloydsinn.com/	1.297314, 103.840249	3
+77	M Hotel Singapore	202	https://www.millenniumhotels.com/en/singapore/m-hotel-singapore/?cid=gplaces-m-hotel-singapore	1.273708, 103.845043	4
+78	M Social Singapore	188	https://www.millenniumhotels.com/en/singapore/m-social-singapore/?cid=gplaces-m-social-singapore	1.290786, 103.837333	4
+79	Mandarin Orchard Singapore	315	https://www.meritushotels.com/mandarin-orchard-singapore/index.html	1.302024, 103.835936	5
+80	Mandarin Oriental, Singapore	424	https://www.mandarinoriental.com/singapore/marina-bay/luxury-hotel?htl=MOSIN&kw=MOSIN&eng=google&src=local	1.290783, 103.858325	5
+81	Marina Bay Sands	493	https://www.marinabaysands.com/	1.283381, 103.860728	5
+82	Marina Mandarin Singapore	261	https://www.meritushotels.com/marina-mandarin-singapore/index.html	1.291804, 103.857119	5
+83	Mercure Singapore Bugis	160	https://www.mercure-singapore-bugis.com/	1.299544, 103.853108	4
+84	Mercure Singapore on Stevens	161	https://www.accorhotels.com/gb/hotel-9561-mercure-singapore-on-stevens/index.shtml	1.313972, 103.828444	4
+85	Moon 23 Hotel	125	http://www.moon.com.sg/	1.305132, 103.854068	4
+86	Naumi Hotel	278	https://naumihotels.com/singapore/	1.295927, 103.855165	5
+87	Nostalgia Hotel	120	https://www.hotelnostalgia.com.sg/	1.285098, 103.833673	4
+88	Novotel Singapore Clarke Quay	224	https://www.accorhotels.com/gb/hotel-5993-novotel-singapore-clarke-quay-/index.shtml	1.291392, 103.844853	4
+89	Novotel Singapore on Stevens	194	https://www.accorhotels.com/gb/hotel-9543-novotel-singapore-on-stevens/index.shtml	1.313790, 103.828877	4
+90	Oakwood Premier OUE Singapore	308	https://www.accorhotels.com/gb/hotel-9543-novotel-singapore-on-stevens/index.shtml	1.277220, 103.848615	4
+91	Oasia Hotel Downtown, Singapore	183	https://www.oasiahotels.com/en/singapore/hotels/oasia-hotel-downtown?utm_source=googleplaces_ohd&utm_medium=organic	1.275934, 103.844276	4
+92	Oasia Hotel Novena	172	https://www.oasiahotels.com/en/singapore/hotels/oasia-hotel-novena?utm_source=googleplaces_ohn&utm_medium=organic	1.320084, 103.844586	4
+93	One Farrer Hotel & Spa	235	https://www.onefarrer.com/	1.312655, 103.854470	5
+94	ONE°15 Marina Sentosa Cove	250	https://one15marina.com	1.245857, 103.839593	na
+95	Orchard Hotel Singapore	210	https://www.millenniumhotels.com/en/singapore/orchard-hotel-singapore/?cid=gplaces-orchard-hotel-singapore	1.307727, 103.828438	5
+96	Orchard Rendezvous Hotel, Singapore	141	https://www.rendezvoushotels.com.sg/en/hotels/orchard-rendezvous-hotel?utm_source=googleplaces_orh&utm_medium=organic	1.306702, 103.827705	4
+97	Orchid Hotel	260	http://orchidhotel.com.sg/	1.276917, 103.843918	4
+98	Pan Pacific Singapore	301	https://panpacific.com	1.292176, 103.858742	5

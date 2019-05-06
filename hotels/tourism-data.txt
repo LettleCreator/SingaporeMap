@@ -1,0 +1,127 @@
+Tourism ID	Tourism Name	Web site	Location
+1	National Healthcare Group Polyclinics' Gallery of Memories	https://roots.sg/Content/Places/museums/national-healthcare-group-polyclinics	103.74764684501, 1.35203106458386
+2	National Library Singapore	https://en.wikipedia.org/wiki/National_Library,_Singapore	103.854281790792, 1.29722592267748
+3	National Museum of Singapore	https://www.nationalmuseum.sg/	103.848504868789, 1.29672358952598
+4	Ngee Ann Cultural Centre	https://thengeeannkongsi.com.sg/en/culture-and-heritage/ngee-ann-cultural-centre/	103.843449206248, 1.29529815511203
+5	Peranakan Museum	https://www.peranakanmuseum.org.sg/	103.849147851428, 1.29425249918493
+6	Police Heritage Centre	https://www.police.gov.sg/about-us/our-heritage/police-heritage-centre/about-police-heritage-centre#content	103.84501954379, 1.32402565519916
+7	Red Dot Design Museum	https://www.museum.red-dot.sg/	103.856316031829, 1.28022800655307
+8	Reflections at Bukit Chandu	https://www.nhb.gov.sg/what-we-do/our-work/.../reflections-at-bukit-chandu	103.794241890607, 1.27954329665988
+9	Republic of Singapore Airforce Museum	https://www.mindef.gov.sg/web/portal/rsaf/about-the-rsaf/air-force-museum	103.899731855273, 1.34515552293767
+10	Republic of Singapore Navy Museum	https://www.mindef.gov.sg/oms/imindef/mindef_websites/.../navymuseum/home.html	104.016516000073, 1.31743499999456
+11	Singapore Discovery Centre	https://www.sdc.com.sg/	103.6789426775, 1.33272640807787
+12	Science Centre Singapore	https://www.science.edu.sg/	103.736269714867, 1.33328436053137
+13	Singapore Art Museum	https://www.singaporeartmuseum.sg/	103.850948911553, 1.29724059894391
+14	Singapore City Gallery	https://www.ura.gov.sg/Corporate/Singapore-City-Gallery	103.845323045012, 1.27959285607286
+15	Singapore Maritime Gallery	https://www.maritimegallery.sg/web/portal/home	103.863336999636, 1.27103899972427
+16	Singapore Philatelic Museum	https://www.spm.org.sg	103.848715823426, 1.29283255866067
+17	Singapore Sports Museum	https://www.sportshub.com.sg/museum	103.873453000392, 1.30144200036259
+18	Sun Yat Sen Nanyang Memorial Hall	https://www.sysnmh.org.sg/	103.847217338702, 1.32810921164909
+19	Tan Tock Seng Hospital Heritage Museum	https://www.ttsh.com.sg/TTSH-Heritage-Museum/	103.845940639249, 1.3216876872552
+20	The Battle Box	https://www.battlebox.com.sg/	103.846163257411, 1.29550008741008
+21	The Changi Museum	https://www.changimuseum.sg/	103.974006793251, 1.36216665046189
+22	The Grassroots Heritage Centre	https://roots.sg/Content/Places/museums/the-grassroots-heritage-centre	103.788143995983, 1.28291602383677
+23	The Intan	https://the-intan.com/	103.900967999697, 1.31448600026553
+24	The Private Museum	http://theprivatemuseum.org/	103.851454494149, 1.29808859920821
+25	The SGH Museum	https://www.sgh.com.sg/about-us/corporate-profile/sgh-museum	103.835934763323, 1.28074432038722
+26	Woodbridge Museum	https://woodbridgemuseum.com/	103.884992493203, 1.38306844679497
+27	Army Museum of Singapore	https://www.mindef.gov.sg/web/portal/army/about-the-army/army-museum	103.67681459535, 1.33190674082204
+28	ArtScience Museum	https://www.marinabaysands.com/museum.html	103.859233999576, 1.28627800020667
+29	Asian Civilisations Museum	https://www.acm.org.sg/	103.851370888669, 1.28745998094124
+30	BCA Gallery	https://www.bca.gov.sg/bcagallery/	103.858550350198, 1.34440911498272
+31	Chinatown Heritage Centre	https://www.chinatownheritagecentre.com.sg/	103.844377710425, 1.28357830609807
+32	Chinese Heritage Centre	https://chc.ntu.edu.sg/	103.683998529299, 1.34377901329634
+33	Civil Defence Heritage Gallery	https://roots.sg/Content/Places/museums/civil-defence-heritage-gallery	103.849115130882, 1.29205335546359
+34	Eurasian Heritage Centre	https://roots.sg/Content/Places/landmarks/museum.../eurasian-heritage-centre	103.899396999842, 1.31009900032616
+35	Former Ford Factory	https://www.nas.gov.sg/formerfordfactory/visit-opening	103.768855250504, 1.35269172931273
+36	Fort Siloso	https://www.sentosa.com.sg/explore/attractions/fort-siloso	103.82795023941, 1.24834860338947
+37	Fuk Tak Chi Museum	https://roots.sg/Content/Places/museums/fuk-tak-chi-museum	103.848808942859, 1.28298149258632
+38	Gan Heritage Centre	https://roots.sg/Content/Places/museums/national-healthcare-group-polyclinics	103.84082300006, 1.27917700014319
+39	Gem Museum	https://en.wikipedia.org/wiki/National_Library,_Singapore	103.849531821151, 1.29776577310231
+40	HDB Gallery	https://www.nationalmuseum.sg/	103.848838000312, 1.33226900033843
+41	Home Team Gallery	https://thengeeannkongsi.com.sg/en/culture-and-heritage/ngee-ann-cultural-centre/	103.722071000299, 1.37199999988044
+42	IRAS Gallery	https://www.peranakanmuseum.org.sg/	103.842120525326, 1.31973617535171
+43	Indian Heritage Centre	https://www.police.gov.sg/about-us/our-heritage/police-heritage-centre/about-police-heritage-centre#content	103.852250362607, 1.30567376358469
+44	Istana Heritage Gallery	https://www.museum.red-dot.sg/	103.843390727531, 1.29946510663366
+45	Land Transport Gallery	https://www.nhb.gov.sg/what-we-do/our-work/.../reflections-at-bukit-chandu	103.849351369174, 1.30814390233743
+46	Lee Kong Chian Natural History Museum	https://www.mindef.gov.sg/web/portal/rsaf/about-the-rsaf/air-force-museum	103.773640000215, 1.30161799964392
+47	Malay Heritage Centre	https://www.mindef.gov.sg/oms/imindef/mindef_websites/.../navymuseum/home.html	103.85987591471, 1.30285771061427
+48	Marina Barrage	https://www.sdc.com.sg/	103.870820869792, 1.28087599264464
+49	Ministry of Education Heritage Centre	https://www.science.edu.sg/	103.798230999789, 1.30357300014804
+50	Mint Museum of Toys	https://www.singaporeartmuseum.sg/	103.854646412148, 1.29629478565333
+51	NEWater Visitor Centre	https://www.ura.gov.sg/Corporate/Singapore-City-Gallery	103.958693397917, 1.324169452477
+52	NUS Baba House	https://www.maritimegallery.sg/web/portal/home	103.837362175454, 1.27706174444879
+53	NUS Museum	https://www.spm.org.sg	103.772467830059, 1.30143563171484
+54	National Gallery Singapore	https://www.sportshub.com.sg/museum	103.851541988097, 1.28989697164605
+55	Church of Our Lady of Lourdes	https://www.sysnmh.org.sg/	103.856070665667, 1.30321054073642
+56	Former Admiralty House	https://www.ttsh.com.sg/TTSH-Heritage-Museum/	103.824544467566, 1.44737777231063
+57	Maghain Aboth Synagogue	https://www.battlebox.com.sg/	103.850599474795, 1.29827320507068
+58	Central Fire Station	https://www.changimuseum.sg/	103.849188901819, 1.29215410124281
+59	Former House of Tan Yeok Nee	https://roots.sg/Content/Places/museums/the-grassroots-heritage-centre	103.843242463875, 1.29849933605713
+60	Hong San See	https://the-intan.com/	103.840856543407, 1.29330349711007
+61	Former Tao Nan School (now The Peranakan Museum)	http://theprivatemuseum.org/	103.849163935246, 1.29423631095386
+62	Former Nagore Dargah	https://www.sgh.com.sg/about-us/corporate-profile/sgh-museum	103.847801312659, 1.28145710104323
+63	Prinsep Street Presbyterian Church	https://woodbridgemuseum.com/	103.851109692348, 1.3017142189844
+64	Telok Ayer Chinese Methodist Church	https://www.mindef.gov.sg/web/portal/army/about-the-army/army-museum	103.846991354291, 1.2784736056473
+65	Former Keng Teck Whay Building	https://www.marinabaysands.com/museum.html	103.847697333262, 1.28120166647708
+66	Former Singapore Conference Hall and Trade Union House (now Singapore Conference Hall)	https://www.acm.org.sg/	103.848969999961, 1.27620100028027
+67	Changi Prison Gate Wall and Turrets	https://www.bca.gov.sg/bcagallery/	103.969628333067, 1.35641766592514
+68	Former Command House	https://www.chinatownheritagecentre.com.sg/	103.819148000164, 1.32559699997874
+69	Esplanade Park Memorials	https://chc.ntu.edu.sg/	103.853389000288, 1.2896839996532
+70	Former Tanjong Pagar Railway Station	https://roots.sg/Content/Places/museums/civil-defence-heritage-gallery	103.836899999904, 1.27279699954917
+71	Civilian War Memorial	https://roots.sg/Content/Places/landmarks/museum.../eurasian-heritage-centre	103.85471700011, 1.29288300019674
+72	Chung Cheng High School (Main) Administration Building and Entrance Arch	https://www.nas.gov.sg/formerfordfactory/visit-opening	103.89071500041, 1.3053630000691
+73	Former Hill Street Police Station	https://www.sentosa.com.sg/explore/attractions/fort-siloso	103.848272650909, 1.29088455947931
+74	Former Parliament House and Annex Building (now The Arts House)	https://roots.sg/Content/Places/museums/fuk-tak-chi-museum	103.850803648798, 1.28874960918596
+75	Raffles Hotel	https://roots.sg/Content/Places/museums/national-healthcare-group-polyclinics	103.854274403914, 1.29493498590319
+76	National Museum of Singapore	https://en.wikipedia.org/wiki/National_Library,_Singapore	103.848485999001, 1.29666182152424
+77	Former Sun Yat Sen Villa (now Sun Yat Sen Nanyang Memorial Hall)	https://www.nationalmuseum.sg/	103.847253281045, 1.32813453365366
+78	Sultan Mosque	https://thengeeannkongsi.com.sg/en/culture-and-heritage/ngee-ann-cultural-centre/	103.859364099689, 1.30254010310894
+79	St. Andrew's Cathedral	https://www.peranakanmuseum.org.sg/	103.852192728669, 1.29218835601534
+80	Tan Si Chong Su	https://www.police.gov.sg/about-us/our-heritage/police-heritage-centre/about-police-heritage-centre#content	103.842920030821, 1.2890955708859
+81	Former Fullerton Building	https://www.museum.red-dot.sg/	103.853063332448, 1.2863446658111
+82	Former Empress Place Building (now Asian Civilisations Museum)	https://www.nhb.gov.sg/what-we-do/our-work/.../reflections-at-bukit-chandu	103.851422375818, 1.28756986090305
+83	Goodwood Park Hotel (Tower Block)	https://www.mindef.gov.sg/web/portal/rsaf/about-the-rsaf/air-force-museum	103.834126823007, 1.30812215846825
+84	Victoria Theatre and Concert Hall	https://www.mindef.gov.sg/oms/imindef/mindef_websites/.../navymuseum/home.html	103.851520859981, 1.28815028155472
+85	Ying Fo Fui Kun	https://www.sdc.com.sg/	103.848464260479, 1.28250190995753
+86	Armenian Apostolic Church of Saint Gregory the Illuminator	https://www.science.edu.sg/	103.849074253057, 1.29300248659951
+87	Tan Teck Guan Building	https://www.singaporeartmuseum.sg/	103.833330080625, 1.28055006412647
+88	Former Cathay Building (now The Cathay)	https://www.ura.gov.sg/Corporate/Singapore-City-Gallery	103.847853439392, 1.29933187185483
+89	Former Thong Chai Medical Institution	https://www.maritimegallery.sg/web/portal/home	103.84543414106, 1.28741597368182
+90	Tou Mu Kung Temple	https://www.spm.org.sg	103.878844727614, 1.35527122744357
+91	Church of Saints Peter and Paul	https://www.sportshub.com.sg/museum	103.8512694267, 1.29787998257456
+92	Chinese High School Clock Tower	https://www.sysnmh.org.sg/	103.801425575471, 1.32511080411058
+93	Istana Kampong Gelam	https://www.ttsh.com.sg/TTSH-Heritage-Museum/	103.860106999939, 1.30242100039567
+94	Former Saint Joseph's Institution (now Singapore Art Museum)	https://www.battlebox.com.sg/	103.851050999757, 1.29725900024117
+95	Former Attorney-Generals Chambers (now Parliament House Block C)	https://www.changimuseum.sg/	103.85083300035, 1.28911699996436
+96	Former Nanyang University Library and Administration Building, Memorial and Arch	https://roots.sg/Content/Places/museums/the-grassroots-heritage-centre	103.683124000066, 1.34831499978532
+97	Church of the Nativity of the Blessed Virgin Mary	https://the-intan.com/	103.898217731825, 1.37362593060186
+98	St. George's Church	http://theprivatemuseum.org/	103.815131185404, 1.30478977951338
+99	St Joseph's Church	https://www.sgh.com.sg/about-us/corporate-profile/sgh-museum	103.853152060263, 1.29835819652016
+100	Yueh Hai Ching Temple	https://woodbridgemuseum.com/	103.849260648314, 1.28458122083921
+101	Former Convent of the Holy Infant Jesus Chapel and Caldwell House (now CHIJMES)	https://www.mindef.gov.sg/web/portal/army/about-the-army/army-museum	103.852159956988, 1.29559437496032
+102	Abdul Gafoor Mosque	https://www.marinabaysands.com/museum.html	103.853690876592, 1.30448453980079
+103	Al-Abrar Mosque	https://www.acm.org.sg/	103.847153371444, 1.28050164311391
+104	The Istana and Sri Temasek	https://www.bca.gov.sg/bcagallery/	103.843291917711, 1.30713059321475
+105	Former Telok Ayer Market (now known as Lau Pa Sat)	https://www.chinatownheritagecentre.com.sg/	103.850425218614, 1.28053825004083
+106	Former Supreme Court	https://chc.ntu.edu.sg/	103.851259126215, 1.28974748216036
+107	Former Ministry of Labour Building (now Family Justice Courts)	https://roots.sg/Content/Places/museums/civil-defence-heritage-gallery	103.843043840887, 1.28674232256948
+108	Sri Mariamman Temple	https://roots.sg/Content/Places/landmarks/museum.../eurasian-heritage-centre	103.845305626955, 1.28251793404598
+109	Sri Perumal Temple	https://www.nas.gov.sg/formerfordfactory/visit-opening	103.85590317724, 1.31332884551821
+110	Thian Hock Keng	https://www.sentosa.com.sg/explore/attractions/fort-siloso	103.847489248338, 1.28110955536342
+111	Cathedral of the Good Shepherd	https://roots.sg/Content/Places/museums/fuk-tak-chi-museum	103.851235898012, 1.29603164207573
+112	Sri Thendayuthapani Temple	https://roots.sg/Content/Places/museums/national-healthcare-group-polyclinics	103.843194999837, 1.29426099978858
+113	Alkaff Upper Serangoon Mosque	https://en.wikipedia.org/wiki/National_Library,_Singapore	103.870357999976, 1.33293800003606
+114	Jurong Town Hall	https://www.nationalmuseum.sg/	103.742210999989, 1.32898399998912
+115	Former Ford Factory (now Memories at Old Ford Factory)	https://thengeeannkongsi.com.sg/en/culture-and-heritage/ngee-ann-cultural-centre/	103.769161999985, 1.35294299961503
+116	Former Raffles College (now NUS Campus at Bukit Timah)	https://www.peranakanmuseum.org.sg/	103.816846000114, 1.31832300023381
+117	Bowyer Block	https://www.police.gov.sg/about-us/our-heritage/police-heritage-centre/about-police-heritage-centre#content	103.83628900034, 1.28073599984333
+118	Church of St Teresa	https://www.museum.red-dot.sg/	103.827887999798, 1.27278099983804
+119	Former St James Power Station	https://www.nhb.gov.sg/what-we-do/our-work/.../reflections-at-bukit-chandu	103.824848000284, 1.26468500020365
+120	Chesed-El Synagogue	https://www.mindef.gov.sg/web/portal/rsaf/about-the-rsaf/air-force-museum	103.842663886538, 1.29725692190229
+121	Former City Hall	https://www.mindef.gov.sg/oms/imindef/mindef_websites/.../navymuseum/home.html	103.851836986387, 1.29088580200351
+122	College of Medicine Building	https://www.sdc.com.sg/	103.834176683404, 1.28084579132239
+123	Hajjah Fatimah Mosque	https://www.science.edu.sg/	103.8628607049, 1.30288896820962
+124	Jamae Mosque	https://www.singaporeartmuseum.sg/	103.84533788768, 1.28320036765143
+125	MacDonald House	https://www.ura.gov.sg/Corporate/Singapore-City-Gallery	103.846126345904, 1.29920861632964
+126	Former Siong Lim Temple (now Lian Shan Shuang Lin Monastery)	https://www.maritimegallery.sg/web/portal/home	103.857342547683, 1.33034490348587
