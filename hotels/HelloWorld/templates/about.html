@@ -1,0 +1,131 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>SG Heritage</title>
+
+    <!--leaflet stylesheet-->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css"
+          integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
+          crossorigin=""/>
+
+    <!--fontawesome stylesheet-->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css"
+          integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+
+    <!--bootstrap-->
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.bundle.min.js"
+            integrity="sha384-zDnhMsjVZfS3hiP7oCBRmfjkQC4fzxVxFhBx8Hkz2aZX8gEvA/jsP3eXRCvzTofP"
+            crossorigin="anonymous"></script>
+
+
+    <!--leaflet-->
+    <script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js"
+            integrity="sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg=="
+            crossorigin=""></script>
+</head>
+<body>
+
+    <!-- Page Content -->
+
+
+    <div class="about-container mx-5 my-3">
+        <h1 class="display-4">About <span class="text-info">sgschools.today</span></h1>
+        <hr class="my-4">
+        <p>I started sgheritage.today because I felt that students of computer science (and computer engineering)
+            should be exposed to geographic information and geographic information systems (GIS), and were not.
+            I
+            drew up the following list of concepts, software, frameworks and websites, which I felt were
+            important
+            to anyone interested in creating an app or website that has a map:
+        </p>
+        <ul class="list">
+            <li>longitude and latitude</li>
+            <li>geographic information systems</li>
+            <li>geolocation and reverse geolocation</li>
+            <li>OpenStreetMap and other projects involving volunteered geographic information (<a
+                    href="https://icaci.org/files/documents/wom/16_IMY_WoM_en.pdf">VGI</a>)
+            </li>
+            <li>coordinate systems like WGS84 and OSGB36</li>
+            <li>Django and Geodjango</li>
+            <li>PostgreSQL and PostGIS</li>
+            <li>Leaflet.js</li>
+        </ul>
+        <p>The best way to get students to tinker or experiment with geographic information is to get them
+            working
+            on a Critical Inquiry project, and so, I proposed a CI project with this topic for Semester 2 (2018/19
+            Academic Year). Three students from the MSc (Information Systems and Information Studies) programme took up the
+            challenge,
+            and
+            this site is the product of their 13-week effort.</p>
+        <h3>Phase 1: Laying the Foundations</h3>
+        <p> In this phase, the data model was developed, a basic map interface developed to show the location of
+            hotels and toursims in Singapore. The focus was not on a rich set of functionality, but
+            rather, to get a foundational set of code which could be built upon by future groups of students taking
+            the Critical Inquiry module. This objective has been nicely met. I asked each student to provide a
+            write-up about themselves so that they could be highlighted in the "About" page. The following are their
+            write-ups:
+        </p>
+        <p><b>Zhao “Windy” Wendi</b> graduate from University of Electronic Science and Technology of China, holds a
+            degree in software engineering, in 2016. He got a fulltime position in Chengdu Institute of Computer Application,
+            Chinese Academy of Sciences , but he decided to pursue advanced studies in 2018.
+            Windy is from chengdu, China, where is the hometown of pandas and hotpot. Singapore has a totally different landscape from chengdu,
+            the lush vegetation and warm climate fascinated him.
+            Windy has deep technical experience in image processing, but map development is a brand new field for him.
+            </p>
+        <p>Windy is responsible for backend development, frontend development and database development.
+            For the backend, he designed the model types, URL mapper, and views to support the frontend.
+            For the frontend, he focussed mainly on the map function and UI design.
+            For the database, he chose the postgreSQL to support the function of data addition and data searching
+            He hopes that this website will really help those who have the query needs and hope that his design will
+            attract more people to Singapore to learn about its heritage culture.
+        </p>
+        <p>
+            <b>Li “Jane” Jing</b> graduated from Sichuan University with a degree in Advertising. Before she
+            enrolled in the master program of information study at Nanyang Technological University, she worked as a
+            digital marketing specialist in IT industry in China. She worked for the Netease, Uber China before mainly
+            in response of user growth. Jane come to Singapore for a further study because she looking forward to acquiring
+            international version and handful data analytic skills. Jane is optimistic and outgoing,
+            she is always ready for challenges.
+</p>
+        <p>
+            In this project, Jane is responsible for the marketing research/user needs analysis and data collection
+            and import part. She hope this application will actually help some tourists to enjoy their trip in Singapore.
+        </p>
+        <p>
+            <b>Liu Shanshan </b> graduated from Nanyang Technological University with a Bachelor of Engineering (Electrical and Electronic Engineering)
+            degree. In 2017, Shanshan enrolled in the MSc (Information Systems) programme at the Nanyang Technological University.
+            Shanshan is currently working for NCS@Singapore as a database administrator and has 5 years experience in database area.
+            Shanshan is always interested in IT and enjoyed the process of discovering new things and learning the new technologies.
+            As a partime student, Shanshan found it's challenging to balance the time for work and study, but She is very glad of
+            what she has gained from the two years programme.
+        </p>
+
+        <h3>About me</h3>
+        <p>I graduated from the National University of Singapore with a Bachelor of Engineering
+            (Chemical Engineering) degree. The twists and turns of life has brought me in contact with (wildly)
+            different
+            subject areas, reflected in the diversity of modules I have taught over the years. I am responsible for
+            the MSc (Knowledge Management) programme, and also the Associate Chair (Students) at the Wee Kim Wee
+            School of Communication and Information. For the last 29 years, I have been crafting learning paths for
+            my students, and cheering them on as they embark on their learning journeys. Occasionally, I teach!
+        </p>
+
+        <h3>Future groups of CI students</h3>
+        <p>If you are from the MSc (Information Systems and Information Studies) programme, and wish to
+            bring
+            to sgschools.today to the next level, please send an exciting proposal to
+            <a href="mailto:ascklee@ntu.edu.sg">ascklee@ntu.edu.sg</a>. Remember
+            to surprise me.
+        </p>
+    </div>
+    <p class="text-center">
+        <a class="btn btn-secondary btn-sm" href="/" role="button">Back</a>
+    </p>
+
+    </div>
+
+</body>
+</html>

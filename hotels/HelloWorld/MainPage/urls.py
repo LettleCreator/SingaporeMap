@@ -25,6 +25,7 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     url(r'^$', view.oriMap),
     url(r'^map$', view.map),
+    url(r'^about$', view.about),
     url(r'^testdb$', testdb),
     url(r'^tourismdb$', tourismdb),
     url(r'^hotel$', view.hotel),

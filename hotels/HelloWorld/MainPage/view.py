@@ -188,3 +188,7 @@ def tourism(request):
     context['zoom'] = 16
     context['LocationXX'] = LocationXX
     return render(request, 'map.html', context)
+
+def about(request):
+    context = {}
+    return render(request, 'about.html', context)
